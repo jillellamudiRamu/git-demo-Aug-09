@@ -1,0 +1,1 @@
+echo $"i love DevOps and need to learn technologies"
